@@ -7,6 +7,7 @@ import com.tecsup.practica1.clases.Caballero;
 import com.tecsup.practica1.clases.Dama;
 import com.tecsup.practica1.clases.Niño;
 
+
 public class App 
 {
 	Bebe 		bebe 		= new Bebe();
