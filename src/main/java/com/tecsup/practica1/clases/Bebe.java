@@ -8,7 +8,7 @@ public class Bebe {
 	String talla="2";
 	
 	public void ejerciciobebes() {
-		JOptionPane.showMessageDialog(null, "El nombre del producto es:  "+ nombre + "/n" + "Descripción:  " +
-	descripcion + "/n" + "Talla : " + talla );
+		JOptionPane.showMessageDialog(null, "El nombre del producto es:  "+ nombre + "\n" + "Descripción:  " +
+	descripcion + "\n" + "Talla : " + talla );
 	}
 }

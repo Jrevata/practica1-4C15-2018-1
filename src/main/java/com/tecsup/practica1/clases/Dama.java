@@ -9,8 +9,8 @@ public class Dama {
 	String precio= "$50.00";
 	
 	public void ejerciciodama() {
-		JOptionPane.showMessageDialog(null, "El nombre del producto es:  "+ nombre + "/n" + "Descripción:  " +
-	descripcion + "/n" + "Talla : " + talla + "/n" + "Precio: " + precio  );
+		JOptionPane.showMessageDialog(null, "El nombre del producto es:  "+ nombre + "\n" + "Descripción:  " +
+	descripcion + "\n" + "Talla : " + talla + "\n" + "Precio: " + precio  );
 	}
 	
 }
